@@ -18,7 +18,7 @@
                 views: {
                     'movies@': {
                         controller: 'MoviesCtrl as moviesCtrl',
-                        templateUrl: 'app/movies/movies.tmpl.html'
+                        templateUrl: 'js/movies/movies.tmpl.html'
                     }
                 }
             });
