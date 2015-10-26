@@ -1,0 +1,41 @@
+<img class="background" src="{{moviesCtrl.currentMovie.images.fanart.full}}" alt=""/>
+
+<div class="panel panel-default centered main">
+    <div class="panel-body">
+        <div class="row movie" >
+
+            <div class="col-md-3">
+                <img class="poster" src="{{moviesCtrl.currentMovie.images.poster.full}}" alt="{{moviesCtrl.currentMovie.title}}"/>
+            </div>
+            <div class="col-md-9">
+                <h1 id="title">
+                    {{moviesCtrl.currentMovie.title}}
+                    <br/><small id="tagline">{{moviesCtrl.currentMovie.tagline}}</small>
+                </h1>
+                <div id="score">
+                    <span class="glyphicon glyphicon-heart"></span> {{moviesCtrl.currentMovie.rating | rating}}
+                </div>
+                <div id="metadata">
+                    <span ng-show="{{moviesCtrl.currentMovie.released}}">RELEASED:</span> {{moviesCtrl.currentMovie.released | date}}
+                    <span ng-show="{{moviesCtrl.currentMovie.runtime}}">RUNTIME:</span> {{moviesCtrl.currentMovie.runtime}} min.
+                    <span>GENRES:</span> {{moviesCtrl.currentMovie.genres.join(', ')}}
+
+                </div>
+                <div id="overview">{{moviesCtrl.currentMovie.overview}}</div>
+                <div id="trailer">
+                    <a href="{{moviesCtrl.currentMovie.trailer}}" target="_blank"><span class="glyphicon glyphicon-play-circle"></span> Watch the trailer</a>
+                </div>
+            </div>
+        </div>
+        <div class="row actions">
+            <div class="col-xs-12">
+                <button class="btn btn-success" ng-click="moviesCtrl.getNextMovie()"><span class="glyphicon glyphicon-ok"></span> Next!</button>
+            </div>
+            <!-- Coming Soon
+            <div class="col-sm-4"><button class="btn btn-success watched" ng-click="moviesCtrl.getNextMovie()"><span class="glyphicon glyphicon-ok"></span> I like it!</button></div>
+            <div class="col-sm-4"><button class="btn btn-primary later" ng-click="moviesCtrl.getNextMovie()"><span class="glyphicon glyphicon-time"></span> I'll watch it later</button></div>
+            <div class="col-sm-4"><button class="btn btn-danger dismiss" ng-click="moviesCtrl.getNextMovie()"><span class="glyphicon glyphicon-remove"></span> Nope!</button></div>
+            -->
+        </div>
+    </div>
+</div>

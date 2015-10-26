@@ -1,0 +1,746 @@
+[
+  {
+    "watchers": 10,
+    "movie": {
+      "title": "Inside Out",
+      "year": 2015,
+      "ids": {
+        "trakt": 98998,
+        "slug": "inside-out-2015",
+        "imdb": "tt2096673",
+        "tmdb": 150540
+      },
+      "tagline": "Meet the little voices inside your head.",
+      "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions - Joy, Fear, Anger, Disgust and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school.",
+      "released": "2015-06-19",
+      "runtime": 94,
+      "trailer": "http://youtube.com/watch?v=_MC3XuMvsDI",
+      "homepage": "http://movies.disney.com/inside-out",
+      "rating": 8.41589,
+      "votes": 4179,
+      "updated_at": "2015-10-25T08:32:15.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "cs",
+        "sk",
+        "de",
+        "he",
+        "hu",
+        "zh",
+        "pt",
+        "tr",
+        "it",
+        "da",
+        "sv",
+        "nl",
+        "ko",
+        "ar",
+        "el",
+        "pl",
+        "lt"
+      ],
+      "genres": [
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "certification": "PG",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/098/998/fanarts/original/dd51480cb4.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/098/998/fanarts/medium/dd51480cb4.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/098/998/fanarts/thumb/dd51480cb4.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/098/998/posters/original/09e0ae33aa.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/098/998/posters/medium/09e0ae33aa.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/098/998/posters/thumb/09e0ae33aa.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/098/998/logos/original/dcf3f19052.png"
+        },
+        "clearart": {
+          "full": "https://walter.trakt.us/images/movies/000/098/998/cleararts/original/e75b250d8c.png"
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/098/998/banners/original/ae3a70fc11.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/098/998/thumbs/original/b8672865af.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 5,
+    "movie": {
+      "title": "Jurassic World",
+      "year": 2015,
+      "ids": {
+        "trakt": 91374,
+        "slug": "jurassic-world-2015",
+        "imdb": "tt0369610",
+        "tmdb": 135397
+      },
+      "tagline": "The park is open.",
+      "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+      "released": "2015-06-12",
+      "runtime": 124,
+      "trailer": "http://youtube.com/watch?v=lP-sUUUfamw",
+      "homepage": "http://www.jurassicworld.com/",
+      "rating": 7.37211,
+      "votes": 7866,
+      "updated_at": "2015-10-25T08:32:44.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "fr",
+        "es",
+        "de",
+        "pt",
+        "ja",
+        "sk",
+        "ru",
+        "bg",
+        "nl",
+        "ja",
+        "sk",
+        "zh",
+        "ru",
+        "bg",
+        "nl",
+        "zh",
+        "he",
+        "fi",
+        "cs",
+        "el",
+        "hu",
+        "tr",
+        "hr",
+        "hr",
+        "it",
+        "pl",
+        "da",
+        "ro",
+        "th",
+        "id",
+        "sv",
+        "ko",
+        "fa",
+        "bs",
+        "ar",
+        "ar",
+        "uk",
+        "uk"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "science-fiction",
+        "thriller"
+      ],
+      "certification": "PG-13",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/091/374/fanarts/original/d6a3959e2e.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/091/374/fanarts/medium/d6a3959e2e.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/091/374/fanarts/thumb/d6a3959e2e.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/091/374/posters/original/a889280b4a.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/091/374/posters/medium/a889280b4a.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/091/374/posters/thumb/a889280b4a.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/091/374/logos/original/7cb91ec91a.png"
+        },
+        "clearart": {
+          "full": "https://walter.trakt.us/images/movies/000/091/374/cleararts/original/37abd7b75b.png"
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/091/374/banners/original/6911d166ac.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/091/374/thumbs/original/4385d5c686.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 4,
+    "movie": {
+      "title": "Pixels",
+      "year": 2015,
+      "ids": {
+        "trakt": 157093,
+        "slug": "pixels-2015",
+        "imdb": "tt2120120",
+        "tmdb": 257344
+      },
+      "tagline": "Game On.",
+      "overview": "Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.",
+      "released": "2015-07-24",
+      "runtime": 105,
+      "trailer": "http://youtube.com/watch?v=XAHprLW48no",
+      "homepage": "http://www.pixels-movie.com/",
+      "rating": 6.78473,
+      "votes": 2332,
+      "updated_at": "2015-10-10T22:45:36.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "fr",
+        "nl",
+        "es",
+        "hu",
+        "ro",
+        "zh",
+        "pt",
+        "it",
+        "ru",
+        "sr",
+        "pl",
+        "lt",
+        "lv",
+        "sv",
+        "id",
+        "tr",
+        "de",
+        "he",
+        "da",
+        "bg",
+        "el",
+        "th",
+        "uk",
+        "ko"
+      ],
+      "genres": [
+        "comedy",
+        "science-fiction",
+        "action"
+      ],
+      "certification": "PG-13",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/157/093/fanarts/original/b5d835c644.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/157/093/fanarts/medium/b5d835c644.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/157/093/fanarts/thumb/b5d835c644.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/157/093/posters/original/2a568d2596.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/157/093/posters/medium/2a568d2596.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/157/093/posters/thumb/2a568d2596.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/157/093/logos/original/cecccabb57.png"
+        },
+        "clearart": {
+          "full": "https://walter.trakt.us/images/movies/000/157/093/cleararts/original/63c81e998f.png"
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/157/093/banners/original/16ced80fac.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/157/093/thumbs/original/a75b87aa1d.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 4,
+    "movie": {
+      "title": "Minions",
+      "year": 2015,
+      "ids": {
+        "trakt": 130970,
+        "slug": "minions-2014",
+        "imdb": "tt2293640",
+        "tmdb": 211672
+      },
+      "tagline": "",
+      "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "released": "2015-06-25",
+      "runtime": 91,
+      "trailer": "http://youtube.com/watch?v=eisKxhjBnZ0",
+      "homepage": "http://www.minionsmovie.com/",
+      "rating": 7.34629,
+      "votes": 3191,
+      "updated_at": "2015-09-06T08:52:15.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "pt",
+        "es",
+        "ru",
+        "he",
+        "fr",
+        "de",
+        "hu",
+        "ro",
+        "zh",
+        "nl",
+        "sv",
+        "da",
+        "tr",
+        "ko",
+        "cs",
+        "el",
+        "pl",
+        "lt",
+        "id",
+        "it",
+        "fi",
+        "lv",
+        "sk",
+        "sr",
+        "bg",
+        "th",
+        "tw",
+        "ja"
+      ],
+      "genres": [
+        "adventure",
+        "animation",
+        "comedy",
+        "family"
+      ],
+      "certification": "PG",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/130/970/fanarts/original/11c7a87982.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/130/970/fanarts/medium/11c7a87982.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/130/970/fanarts/thumb/11c7a87982.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/130/970/posters/original/a8eddfef7e.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/130/970/posters/medium/a8eddfef7e.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/130/970/posters/thumb/a8eddfef7e.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/130/970/logos/original/3f79ec6782.png"
+        },
+        "clearart": {
+          "full": "https://walter.trakt.us/images/movies/000/130/970/cleararts/original/4c36c5227b.png"
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/130/970/banners/original/e78817729f.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/130/970/thumbs/original/1968ec9c38.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 4,
+    "movie": {
+      "title": "Fantastic Four",
+      "year": 2015,
+      "ids": {
+        "trakt": 106666,
+        "slug": "fantastic-four-2015",
+        "imdb": "tt1502712",
+        "tmdb": 166424
+      },
+      "tagline": "Change is coming",
+      "overview": "Four young scientists teleport to an alternate and dangerous universe, which alters their physical form in shocking ways. They must now use these abilities to save the world from a former friend turned enemy.",
+      "released": "2015-08-07",
+      "runtime": 106,
+      "trailer": "http://youtube.com/watch?v=_flR9_6msik",
+      "homepage": "http://www.fantasticfourmovie.com/",
+      "rating": 5.75428,
+      "votes": 1754,
+      "updated_at": "2015-08-21T08:30:06.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "fr",
+        "ru",
+        "de",
+        "zh",
+        "pt",
+        "hu",
+        "es",
+        "it",
+        "ro"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "science-fiction"
+      ],
+      "certification": "PG-13",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/106/666/fanarts/original/97a41d0a32.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/106/666/fanarts/medium/97a41d0a32.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/106/666/fanarts/thumb/97a41d0a32.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/106/666/posters/original/473dd506bc.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/106/666/posters/medium/473dd506bc.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/106/666/posters/thumb/473dd506bc.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/106/666/logos/original/f0fcbe365d.png"
+        },
+        "clearart": {
+          "full": "https://walter.trakt.us/images/movies/000/106/666/cleararts/original/b32620cfa8.png"
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/106/666/banners/original/4ef4b2912f.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/106/666/thumbs/original/51cf09dd27.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 3,
+    "movie": {
+      "title": "Everest",
+      "year": 2015,
+      "ids": {
+        "trakt": 153969,
+        "slug": "everest-2015",
+        "imdb": "tt2719848",
+        "tmdb": 253412
+      },
+      "tagline": "The Storm Awaits.",
+      "overview": "Inspired by the incredible events surrounding a treacherous attempt to reach the summit of the world's highest mountain, \"Everest\" documents the awe-inspiring journey of two different expeditions challenged beyond their limits by one of the fiercest snowstorms ever encountered by mankind. Their mettle tested by the harshest of elements found on the planet, the climbers will face nearly impossible obstacles as a lifelong obsession becomes a breathtaking struggle for survival.",
+      "released": "2015-09-17",
+      "runtime": 121,
+      "trailer": "http://youtube.com/watch?v=IRVJwH3hBd0",
+      "homepage": "http://www.everestmovie.com/",
+      "rating": 7.32364,
+      "votes": 516,
+      "updated_at": "2015-09-30T12:14:51.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "sv",
+        "fr",
+        "cs",
+        "es",
+        "it",
+        "pt",
+        "ru",
+        "de",
+        "hu",
+        "nl",
+        "bg",
+        "tr",
+        "he",
+        "ko",
+        "uk",
+        "da"
+      ],
+      "genres": [
+        "adventure",
+        "drama",
+        "thriller"
+      ],
+      "certification": "PG-13",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/153/969/fanarts/original/3e7be07e0e.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/153/969/fanarts/medium/3e7be07e0e.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/153/969/fanarts/thumb/3e7be07e0e.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/153/969/posters/original/8a4860d778.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/153/969/posters/medium/8a4860d778.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/153/969/posters/thumb/8a4860d778.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/153/969/logos/original/a32dd9ff4f.png"
+        },
+        "clearart": {
+          "full": "https://walter.trakt.us/images/movies/000/153/969/cleararts/original/1e5c870cd5.png"
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/153/969/banners/original/b6adab3c4b.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/153/969/thumbs/original/df6841bea9.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 3,
+    "movie": {
+      "title": "Hitman: Agent 47",
+      "year": 2015,
+      "ids": {
+        "trakt": 151163,
+        "slug": "hitman-agent-47-2015",
+        "imdb": "tt2679042",
+        "tmdb": 249070
+      },
+      "tagline": "Your Number is Up.",
+      "overview": "An assassin teams up with a woman to help her find her father and uncover the mysteries of her ancestry.",
+      "released": "2015-08-21",
+      "runtime": 96,
+      "trailer": "http://youtube.com/watch?v=dv83tbUUySo",
+      "homepage": null,
+      "rating": 7.05686,
+      "votes": 598,
+      "updated_at": "2015-09-30T06:50:04.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "es",
+        "de",
+        "he",
+        "zh",
+        "pt",
+        "fr",
+        "hu",
+        "lt",
+        "ru",
+        "tr",
+        "sv",
+        "id",
+        "bg",
+        "nl",
+        "ro",
+        "it",
+        "el",
+        "pl",
+        "da",
+        "cs",
+        "ko",
+        "uk"
+      ],
+      "genres": [
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "certification": "R",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/151/163/fanarts/original/b60d8c8a73.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/151/163/fanarts/medium/b60d8c8a73.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/151/163/fanarts/thumb/b60d8c8a73.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/151/163/posters/original/a3b8d9bbe9.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/151/163/posters/medium/a3b8d9bbe9.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/151/163/posters/thumb/a3b8d9bbe9.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/151/163/logos/original/9ec30c1d11.png"
+        },
+        "clearart": {
+          "full": "https://walter.trakt.us/images/movies/000/151/163/cleararts/original/dd8a1c0aa4.png"
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/151/163/banners/original/46f971871f.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/151/163/thumbs/original/75c1873ae1.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 3,
+    "movie": {
+      "title": "Tomorrowland",
+      "year": 2015,
+      "ids": {
+        "trakt": 102924,
+        "slug": "tomorrowland-2015",
+        "imdb": "tt1964418",
+        "tmdb": 158852
+      },
+      "tagline": "Imagine a world where nothing is impossible.",
+      "overview": "Bound by a shared destiny, a bright, optimistic teen bursting with scientific curiosity and a former boy-genius inventor jaded by disillusionment embark on a danger-filled mission to unearth the secrets of an enigmatic place somewhere in time and space that exists in their collective memory as \"Tomorrowland.\"",
+      "released": "2015-05-22",
+      "runtime": 130,
+      "trailer": "http://youtube.com/watch?v=0sH0__SpV88",
+      "homepage": "http://movies.disney.com/tomorrowland",
+      "rating": 7.11982,
+      "votes": 3547,
+      "updated_at": "2015-10-10T08:31:05.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "fr",
+        "ru",
+        "pt",
+        "pt",
+        "de",
+        "es",
+        "hu",
+        "he",
+        "zh",
+        "it",
+        "da"
+      ],
+      "genres": [
+        "science-fiction",
+        "adventure",
+        "fantasy",
+        "action",
+        "mystery"
+      ],
+      "certification": "PG",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/102/924/fanarts/original/74695e345f.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/102/924/fanarts/medium/74695e345f.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/102/924/fanarts/thumb/74695e345f.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/102/924/posters/original/af119b8d07.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/102/924/posters/medium/af119b8d07.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/102/924/posters/thumb/af119b8d07.jpg"
+        },
+        "logo": {
+          "full": "https://walter.trakt.us/images/movies/000/102/924/logos/original/53ce137816.png"
+        },
+        "clearart": {
+          "full": null
+        },
+        "banner": {
+          "full": "https://walter.trakt.us/images/movies/000/102/924/banners/original/40322aab3f.jpg"
+        },
+        "thumb": {
+          "full": "https://walter.trakt.us/images/movies/000/102/924/thumbs/original/660d217504.jpg"
+        }
+      }
+    }
+  },
+  {
+    "watchers": 2,
+    "movie": {
+      "title": "Monster High: Boo York, Boo York",
+      "year": 2015,
+      "ids": {
+        "trakt": 222939,
+        "slug": "monster-high-boo-york-boo-york-2015",
+        "imdb": "tt4779496",
+        "tmdb": 360404
+      },
+      "tagline": "A Monsterrific Musical!",
+      "overview": "The ghouls are taking a bite out of Boo York! The De Niles are hoping to meet their dynastic destiny and carve out a new empire, while Catty Noir is trying to find her music. Together the ghouls are taking Boo York by storm.",
+      "released": "2015-10-19",
+      "runtime": 72,
+      "trailer": null,
+      "homepage": "http://www.monsterhigh.com/en-us/videos/index.html",
+      "rating": 8.11111,
+      "votes": 45,
+      "updated_at": "2015-10-08T08:30:09.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "de",
+        "pl",
+        "es",
+        "pt"
+      ],
+      "genres": [
+        "animation",
+        "family"
+      ],
+      "certification": null,
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/222/939/fanarts/original/c7acceebd5.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/222/939/fanarts/medium/c7acceebd5.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/222/939/fanarts/thumb/c7acceebd5.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/222/939/posters/original/54ba653082.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/222/939/posters/medium/54ba653082.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/222/939/posters/thumb/54ba653082.jpg"
+        },
+        "logo": {
+          "full": null
+        },
+        "clearart": {
+          "full": null
+        },
+        "banner": {
+          "full": null
+        },
+        "thumb": {
+          "full": null
+        }
+      }
+    }
+  },
+  {
+    "watchers": 2,
+    "movie": {
+      "title": "Batman vs. Robin",
+      "year": 2015,
+      "ids": {
+        "trakt": 202204,
+        "slug": "batman-vs-robin-2015",
+        "imdb": "tt4324274",
+        "tmdb": 321528
+      },
+      "tagline": "",
+      "overview": "Damian Wayne (Stuart Allan) is having a hard time coping with his father's \"no killing\" rule. Meanwhile, Gotham is going through hell with threats such as the insane Dollmaker (\"Weird Al\" Yankovic), and the secretive Court of Owls.",
+      "released": "2015-04-14",
+      "runtime": 72,
+      "trailer": "http://youtube.com/watch?v=qtdJl6ccK18",
+      "homepage": null,
+      "rating": 7.54167,
+      "votes": 480,
+      "updated_at": "2015-05-16T08:33:28.000Z",
+      "language": "en",
+      "available_translations": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "nl",
+        "de",
+        "ro",
+        "el",
+        "sv",
+        "cs"
+      ],
+      "genres": [
+        "action",
+        "adventure",
+        "animation"
+      ],
+      "certification": "PG-13",
+      "images": {
+        "fanart": {
+          "full": "https://walter.trakt.us/images/movies/000/202/204/fanarts/original/3dfe6066bd.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/202/204/fanarts/medium/3dfe6066bd.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/202/204/fanarts/thumb/3dfe6066bd.jpg"
+        },
+        "poster": {
+          "full": "https://walter.trakt.us/images/movies/000/202/204/posters/original/5c22708e55.jpg",
+          "medium": "https://walter.trakt.us/images/movies/000/202/204/posters/medium/5c22708e55.jpg",
+          "thumb": "https://walter.trakt.us/images/movies/000/202/204/posters/thumb/5c22708e55.jpg"
+        },
+        "logo": {
+          "full": null
+        },
+        "clearart": {
+          "full": null
+        },
+        "banner": {
+          "full": null
+        },
+        "thumb": {
+          "full": null
+        }
+      }
+    }
+  }
+]

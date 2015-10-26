@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose My Tv</title>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+
+    <!-- League Gothic Font -->
+    <link rel="stylesheet" href="vendor/league-gothic/stylesheet.css"/>
+
+    <!-- Movies -->
+    <link rel="stylesheet" href="assets/css/main.css"/>
+    <link rel="stylesheet" href="assets/css/movies.css"/>
+</head>
+<body>
+
+<div class="container-fluid" ng-app="ChooseMyTv">
+    <div class="row">
+        <div class="col-xs-12 header">
+            What should I watch today?
+        </div>
+    </div>
+    <div ui-view="movies">
+
+    </div>
+</div>
+
+<script type="application/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="application/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+<script type="application/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+
+<script type="application/javascript" src="app/choosemytv.js"></script>
+<script type="application/javascript" src="app/choosemytv-router.js"></script>
+<script type="application/javascript" src="app/movies/movies.js"></script>
+<script type="application/javascript" src="app/movies/movies-router.js"></script>
+<script type="application/javascript" src="app/movies/movies-controller.js"></script>
+<script type="application/javascript" src="app/common/models/movies-model.js"></script>
+<script type="application/javascript" src="app/common/directives/background-image-directive.js"></script>
+<script type="application/javascript" src="app/common/filters/rating-filter.js"></script>
+</body>
+</html>
