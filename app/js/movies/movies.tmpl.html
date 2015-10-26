@@ -16,10 +16,9 @@
                     <span class="glyphicon glyphicon-heart"></span> {{moviesCtrl.currentMovie.rating | rating}}
                 </div>
                 <div id="metadata">
-                    <span ng-show="{{moviesCtrl.currentMovie.released}}">RELEASED:</span> {{moviesCtrl.currentMovie.released | date}}
-                    <span ng-show="{{moviesCtrl.currentMovie.runtime}}">RUNTIME:</span> {{moviesCtrl.currentMovie.runtime}} min.
+                    <span >RELEASED:</span> {{moviesCtrl.currentMovie.released | date}}
+                    <span>RUNTIME:</span> {{moviesCtrl.currentMovie.runtime}} min.
                     <span>GENRES:</span> {{moviesCtrl.currentMovie.genres.join(', ')}}
-
                 </div>
                 <div id="overview">{{moviesCtrl.currentMovie.overview}}</div>
                 <div id="trailer">
