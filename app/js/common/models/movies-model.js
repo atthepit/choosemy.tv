@@ -12,7 +12,7 @@
     function MoviesModel($http, $q) {
         var moviesModel = {},
             URLS = {
-                TRENDING: 'https://api-v2launch.trakt.tv/movies/trending'
+                TRENDING: 'https://api-v2launch.trakt.tv/movies/trending?extended=full,images'
             },
             HEADERS = {
                 'Content-Type': 'application/json',
