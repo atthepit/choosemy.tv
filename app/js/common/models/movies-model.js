@@ -21,6 +21,8 @@
             },
             currentMovie,
             currentIndex = 0,
+            page = 1,
+            limit = 5,
             movies = [];
 
         moviesModel.getCurrentMovie = getCurrentMovie;
@@ -36,6 +38,7 @@
 
         function cacheMovies(result) {
             movies = movies.concat(extract(result));
+            page += 1;
             return movies;
         }
 
@@ -44,13 +47,17 @@
             return currentMovie;
         }
 
+        function getPaginationInfo() {
+            return '&page=' + page + '&limit=' + limit;
+        }
+
         function getCurrentMovie() {
             var deferred = $q.defer();
 
             if (currentMovie) {
                 deferred.resolve(currentMovie);
             } else {
-                return $http.get(URLS.TRENDING,{headers: HEADERS})
+                return $http.get(URLS.TRENDING + getPaginationInfo(),{headers: HEADERS})
                     .then(cacheMovies)
                     .then(cacheCurrentMovie);
             }
@@ -65,7 +72,7 @@
             if (currentIndex < movies.length) {
                 deferred.resolve(cacheCurrentMovie(movies));
             } else {
-                return $http.get(URLS.TRENDING,{headers: HEADERS})
+                return $http.get(URLS.TRENDING  + getPaginationInfo(),{headers: HEADERS})
                     .then(cacheMovies)
                     .then(cacheCurrentMovie);
             }
