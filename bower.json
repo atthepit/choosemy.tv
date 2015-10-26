@@ -1,0 +1,15 @@
+{
+  "name": "choosemy.tv",
+  "description": "If you don't know what to watch, this is your app.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mesmerismo/choosemy.tv",
+  "license": "APACHE 2.0",
+  "private": false,
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "html5-boilerplate": "~5.2.0"
+  }
+}
